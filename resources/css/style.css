@@ -1,0 +1,26 @@
+html{text-align: center;
+font-family: Helvetica;}
+
+.Top{background-image: url("/Users/andachisster/broadway/resources/the-flatiron-building.png");
+color: white;
+font-size: 18px;
+}
+
+.Top h1{font-size: 70px;
+font-weight: bold;
+}
+
+.Process h1{font-size: 32px;
+font-weight: bold;
+}
+
+.Process h2,
+.NY h1{font-size: 23px;
+font-weight: bold;}
+
+.Process,
+.NY {font-size: 14px;}
+
+.NY h1{background-image: url("/Users/andachisster/broadway/resources/the-flatiron-building.png");
+color: white;
+}
